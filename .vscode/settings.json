@@ -1,5 +1,0 @@
-{
-  "prettier.arrowParens": "avoid",
-  "prettier.useTabs": true,
-  "editor.tabSize": 2
-}
